@@ -1,4 +1,4 @@
-# TP-Tasks-TO-DO-in-ELM-language
+# Tasks-TO-DO-in-ELM
 TP
 TODO list using ELM,HTML and Css.
 
